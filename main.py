@@ -41,3 +41,6 @@ USERNAME: {username}
         elif command == '4':
             print(texts.USER_SELECTED_COMMAND_TEXT[command])
             command_delete = input(texts.USER_COMMAND_DELETE_TEXT)
+
+# этот файл в гите
+
